@@ -3,6 +3,6 @@ Scrip so awesome, it has its own repo!
 
 ## How to use.
 
-- asd
+- Run awesome.sh in shell with one argument k.
 
-- asd
+- Such script will return all the directory that have size more than k bytes.
